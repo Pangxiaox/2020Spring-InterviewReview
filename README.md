@@ -1,2 +1,2 @@
 # 2020Spring-InterviewReview
-Mark some interview experiences(ready for update)
+Mark some interview experiences
